@@ -5,3 +5,7 @@
 - Introduction to Front-End Development
 
 [Final Project - Build a biographical page using HTML, CSS and Bootstrap](./introduction/index.html)
+
+- Programming with Javascript
+
+[Building a functional program](./javascript/functional.js)
