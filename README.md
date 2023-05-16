@@ -9,3 +9,5 @@
 - Programming with Javascript
 
 [Building a functional program](./javascript/functional.js)
+[Building a oriented object program](./javascript/oop.js)
+[Little Lemon Receipt Maker](./javascript/receiptMaker.js)
